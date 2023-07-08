@@ -33,7 +33,7 @@ function portfolio() {
           </div>
           <h3 className={style.h3}>Obstacle Detecion and AVoiding robot(IOT)</h3>
           <div className={style.btn}>
-          <a href="https://github.com/Mahammed-Siyabuddeen/avocado-nextjs" className='btn btn-primary'>Github</a>
+          <a href="https://github.com/el3ktraz/OBSTACLE-AVOIDING-ROBOT" className='btn btn-primary'>Github</a>
           <a href="https://github.com/el3ktraz/"className='btn'  >Live Demo</a>
           </div>
         </article>
