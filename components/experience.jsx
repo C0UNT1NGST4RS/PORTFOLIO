@@ -9,15 +9,15 @@ function experience() {
 
       <div className={style.container}>
         <div className={style.frontEnd}>
-          <h3 className={style.h3}>Frontend Development</h3>
+          <h3 className={style.h3}>Skills</h3>
           <div className={style.content}>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>Reactjs</h4>
+              <h4>Python</h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>Nextjs</h4>
+              <h4>VB.net</h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
@@ -29,36 +29,36 @@ function experience() {
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>Matrial Ui</h4>
-            </div>
-            <div className={style.details}>
-              <VerifiedIcon className={style.icon} />
-              <h4>Javascript</h4>
-            </div>
-          </div>
-        </div>
-        <div className={style.backEnd}>
-          <h3 className={style.h3}>BackEnd Development</h3>
-          <div className={style.content}>
-            <div className={style.details}>
-              <VerifiedIcon className={style.icon} />
-              <h4>Nodejs</h4>
+              <h4>Heroku/firebase</h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
               <h4>MongoDB</h4>
             </div>
+          </div>
+        </div>
+        <div className={style.backEnd}>
+          <h3 className={style.h3}>Intrests</h3>
+          <div className={style.content}>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>Socket.io</h4>
+              <h4>ML</h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>Firebase</h4>
+              <h4>Cyber Security</h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>Heroku</h4>
+              <h4>System Administraion</h4>
+            </div>
+            <div className={style.details}>
+              <VerifiedIcon className={style.icon} />
+              <h4>Network Administration</h4>
+            </div>
+            <div className={style.details}>
+              <VerifiedIcon className={style.icon} />
+              <h4></h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
