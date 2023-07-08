@@ -16,7 +16,7 @@ function about() {
             <div className={style.card}>
               <BadgeIcon className={style.icon} />
               <h5>Experience</h5>
-              <small>2+ years</small>
+              <small>0</small>
             </div>
             <div className={style.card}>
               <FactCheckIcon className={style.icon} />
