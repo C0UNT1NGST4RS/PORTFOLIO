@@ -1,0 +1,71 @@
+.subContainer {
+    padding: 30px 100px;
+    display: grid;
+    grid-template-columns: 35% 50%;
+    gap: 15%;
+
+}
+
+.profile {
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background: linear-gradient(45deg, transparent, var(--color-primary));
+}
+
+.profileImage {
+    border-radius: 2rem;
+    overflow: hidden;
+}
+
+.profileImage:hover {
+    transform: rotate(0);
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+
+
+}
+
+.card {
+    background: var(--color-bg-variant);
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    transition: var(---transition);
+
+}
+
+.card:hover {
+    background: transparent;
+    background-color: var(--color-primary-variant);
+    cursor: default;
+}
+
+.icon {
+    color: var(--color-primary);
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.para {
+    margin: 2rem 0 0.6rem;
+    color: var(--color-light);
+}
+
+@media screen and (max-width: 480px) {
+    .subContainer {
+        padding: 20px 50px;
+        grid-template-columns: 1fr;
+    }
+
+    .cards {
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+
+}
