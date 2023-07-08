@@ -14,7 +14,7 @@ function portfolio() {
           <h3 className={style.h3}>Face Recognition Attendance System</h3>
           <div className={style.btn}>
           <a href="https://github.com/el3ktraz/FACE-RECOGNITION-ATTANDANCE-SYSTEM" className='btn btn-primary'>Github</a>
-          <a href=""className='btn'  >Live Demo</a>
+          <a href="https://github.com/el3ktraz/"className='btn'  >Live Demo</a>
           </div>
         </article>
         <article className={style.item}>
@@ -24,7 +24,7 @@ function portfolio() {
           <h3 className={style.h3}>Sports Auction Software</h3>
           <div className={style.btn}>
           <a href="https://github.com/el3ktraz/CRICKET-BIDDING" className='btn btn-primary'>Github</a>
-          <a href="https://netflixshihab.netlify.app/" className='btn' >Live Demo</a>
+          <a href="https://github.com/el3ktraz/" className='btn' >Live Demo</a>
           </div>
         </article>
         <article className={style.item}>
@@ -34,7 +34,7 @@ function portfolio() {
           <h3 className={style.h3}>Obstacle Detecion and AVoiding robot(IOT)</h3>
           <div className={style.btn}>
           <a href="https://github.com/Mahammed-Siyabuddeen/avocado-nextjs" className='btn btn-primary'>Github</a>
-          <a href="https://avocado-nextjs2.vercel.app/"className='btn'  >Live Demo</a>
+          <a href="https://github.com/el3ktraz/"className='btn'  >Live Demo</a>
           </div>
         </article>
         <article className={style.item}>
