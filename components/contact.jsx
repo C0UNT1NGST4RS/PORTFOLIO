@@ -23,14 +23,14 @@ function Contact() {
           <article className={style.option}>
             <EmailIcon/>
             <h4>Email</h4>
-            <h5>siyab615@gmail.com</h5>
-            <Link href={'mailto:siyab615@gmail.com'}><span className={style.span}>Send a Message</span></Link> 
+            <h5>el3ktraz06@gmail.com</h5>
+            <Link href={'mailto:el3ktraz06@gmail.com'}><span className={style.span}>Send a Message</span></Link> 
           </article>
           <article className={style.option}>
             <EmailIcon/>
             <h4>Whatsapp</h4>
-            <h5>8792635047</h5>
-            <Link href={'https://api.whatsapp.com/send?phone=+918792635047'} ><span className={style.span}>Send a Message</span></Link> 
+            <h5>7760823125</h5>
+            <Link href={'https://api.whatsapp.com/send?phone=+917760823125'} ><span className={style.span}>Send a Message</span></Link> 
           </article>
         </div>
         <form onSubmit={sendEmail} ref={formRef} className={style.form}>
