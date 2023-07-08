@@ -13,7 +13,7 @@
     width: 450px;
     transition: var(--transition);
 }
-.service1:hover , .service2 :hover{
+.service1:hover , .service2:hover{
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;
