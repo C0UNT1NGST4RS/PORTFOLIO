@@ -8,7 +8,28 @@ function services() {
       <h2>Services</h2>
 
       <div className={style.container}>
-        <article className={style.service}>
+        <article className={style.service1}>
+          <div className={style.header}>
+            <h3 className={style.h3}>Web Development</h3>
+          </div>
+          <ul className={style.list}>
+            <li className={style.li}><Done className={style.icon}/> Small Scale Automation in python</li>
+            <li className={style.li}><Done className={style.icon}/> Server Configuration</li>
+            <li className={style.li}><Done className={style.icon}/> Debugging</li>
+            <li className={style.li}><Done className={style.icon}/> Testing[Black box]</li>
+            <li className={style.li}><Done className={style.icon}/> Website Maintenance</li>
+            <li className={style.li}><Done className={style.icon}/> Static Website Service</li>
+            <li className={style.li}><Done className={style.icon}/> Network Configuration</li>
+            <li className={style.li}><Done className={style.icon}/> Database Management</li>
+            <li className={style.li}><Done className={style.icon}/> Web Hosting</li>
+            <li className={style.li}><Done className={style.icon}/> Payment Gatway Integration</li>
+            <li className={style.li}><Done className={style.icon}/> API Integrations</li>
+
+          </ul>
+        </article>
+      </div>
+      <div className={style.container}>
+        <article className={style.service2}>
           <div className={style.header}>
             <h3 className={style.h3}>Web Development</h3>
           </div>
