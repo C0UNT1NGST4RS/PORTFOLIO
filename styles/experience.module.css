@@ -4,24 +4,7 @@
     gap: 2rem;
     margin: 0 100px;
 }
-/* start */
-.container {
-  display: flex;
-  justify-content: space-between;
-  gap: 20px;
-  flex-wrap: wrap;
-}
 
-.service {
-  flex-basis: calc(50% - 10px); /* Adjust the width as per your preference */
-}
-
-@media (max-width: 768px) {
-  .service {
-    flex-basis: 100%; /* On smaller screens, make the service take full width */
-  }
-}
-/* end */
 .frontEnd, .backEnd{
     background: var(--color-bg-variant);
     padding: 2.4rem 5rem;
