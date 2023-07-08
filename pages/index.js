@@ -12,8 +12,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>siyabuddeen|full stack developer</title>
-        <meta name="description" content="hello i am siyabuddeen full stack developer i am from mangalore,karnataka" />
+        <title>Abhishek Mathew| dev</title>
+        <meta name="description" content="hello i am Abhishek Mathew  from mangalore,karnataka" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
