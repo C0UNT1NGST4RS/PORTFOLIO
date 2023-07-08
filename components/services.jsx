@@ -8,12 +8,11 @@ function services() {
       <h2>Services</h2>
 
       <div className={style.container}>
-        <div className={style.service}>
+        <article className={style.service}>
           <div className={style.header}>
-            <h3 className={style.h3}>Dev</h3>
+            <h3 className={style.h3}>Web Development</h3>
           </div>
           <ul className={style.list}>
-            {/* Services under "Dev" */
             <li className={style.li}><Done className={style.icon}/> Small Scale Automation in python</li>
             <li className={style.li}><Done className={style.icon}/> Server Configuration</li>
             <li className={style.li}><Done className={style.icon}/> Debugging</li>
@@ -25,35 +24,11 @@ function services() {
             <li className={style.li}><Done className={style.icon}/> Web Hosting</li>
             <li className={style.li}><Done className={style.icon}/> Payment Gatway Integration</li>
             <li className={style.li}><Done className={style.icon}/> API Integrations</li>
-}
-          </ul>
-        </div>
 
-        <div className={style.service}>
-          <div className={style.header}>
-            <h3 className={style.h3}>OTHER SERVICES</h3>
-          </div>
-          <ul className={style.list}>
-            {/* Services under "OTHER SERVICES" */
-             <li className={style.li}><Done className={style.icon}/> Small Scale Automation in python</li>
-            <li className={style.li}><Done className={style.icon}/> Server Configuration</li>
-            <li className={style.li}><Done className={style.icon}/> Debugging</li>
-            <li className={style.li}><Done className={style.icon}/> Testing[Black box]</li>
-            <li className={style.li}><Done className={style.icon}/> Website Maintenance</li>
-            <li className={style.li}><Done className={style.icon}/> Static Website Service</li>
-            <li className={style.li}><Done className={style.icon}/> Network Configuration</li>
-            <li className={style.li}><Done className={style.icon}/> Database Management</li>
-            <li className={style.li}><Done className={style.icon}/> Web Hosting</li>
-            <li className={style.li}><Done className={style.icon}/> Payment Gatway Integration</li>
-            <li className={style.li}><Done className={style.icon}/> API Integrations</li>
-}
           </ul>
-        </div>
+        </article>
       </div>
     </section>
-
-   
-        
   )
 }
 
