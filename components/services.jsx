@@ -15,8 +15,9 @@ function services() {
           <ul className={style.list}>
            
             <li className={style.li}><Done className={style.icon}/> Red Team Assesment</li>
-            <li className={style.li}><Done className={style.icon}/> Employe Awareness Training about security</li>
+            <li className={style.li}><Done className={style.icon}/> Employe Awareness Training on security</li>
             <li className={style.li}><Done className={style.icon}/> Phishing Simulations</li>
+            <li className={style.li}><Done className={style.icon}/> Network Load Testing</li>
             <li className={style.li}><Done className={style.icon}/> Small Scale Automation in python</li>
             <li className={style.li}><Done className={style.icon}/> Server Configuration</li>
             <li className={style.li}><Done className={style.icon}/> Debugging</li>
