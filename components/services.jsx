@@ -8,6 +8,32 @@ function services() {
       <h2>Services</h2>
 
       <div className={style.container}>
+        <div className={style.service}>
+          <div className={style.header}>
+            <h3 className={style.h3}>Dev</h3>
+          </div>
+          <ul className={style.list}>
+            {/* Services under "Dev" */}
+          </ul>
+        </div>
+
+        <div className={style.service}>
+          <div className={style.header}>
+            <h3 className={style.h3}>OTHER SERVICES</h3>
+          </div>
+          <ul className={style.list}>
+            {/* Services under "OTHER SERVICES" */}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    
+    <section id='services'>
+      <h5>What I Offer</h5>
+      <h2>Services</h2>
+
+      <div className={style.container}>
         <article className={style.service}>
           <div className={style.header}>
             <h3 className={style.h3}>Dev</h3>
