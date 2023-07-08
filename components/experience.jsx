@@ -9,7 +9,7 @@ function experience() {
 
       <div className={style.container}>
         <div className={style.frontEnd}>
-          <h3 className={style.h3}>Skills</h3>
+          <h3 className={style.h3}>Coding Knowledge</h3>
           <div className={style.content}>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
@@ -29,7 +29,7 @@ function experience() {
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>Heroku/firebase</h4>
+              <h4>MYSQL</h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
@@ -38,11 +38,11 @@ function experience() {
           </div>
         </div>
         <div className={style.backEnd}>
-          <h3 className={style.h3}>Intrests</h3>
+          <h3 className={style.h3}>My Intrests</h3>
           <div className={style.content}>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>ML</h4>
+              <h4>ML & AI</h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
@@ -58,11 +58,11 @@ function experience() {
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4></h4>
+              <h4>Internet of Things (IoT)</h4>
             </div>
             <div className={style.details}>
               <VerifiedIcon className={style.icon} />
-              <h4>Javascript</h4>
+              <h4>Linux and Unix Systems</h4>
             </div>
           </div>
         </div>
