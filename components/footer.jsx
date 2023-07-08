@@ -17,7 +17,7 @@ function footer() {
         <a href="#contact"><span className={style.span}>Contact</span></a>
       </div>
       <div className={style.socials}>
-      <Link href="https://in.linkedin.com/in/mohd-shihab-442b681b2"><span className={style.icon}><LinkedInIcon/></span></Link>
+      <Link href="https://in.linkedin.com/"><span className={style.icon}><LinkedInIcon/></span></Link>
       <Link href="https://github.com/el3ktraz/"><span className={style.icon}><GitHubIcon/></span></Link>
       <Link href="https://www.instagram.com/4bhiX_X/"><span className={style.icon}><InstagramIcon/></span></Link>
         
