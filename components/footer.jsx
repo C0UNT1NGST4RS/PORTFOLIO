@@ -7,7 +7,7 @@ import Link from 'next/link';
 function footer() {
   return (
     <footer className={style.container} id='footer'>
-      <Link href="/"><span className={style.logo}>SIYAB</span></Link>
+      <Link href="/"><span className={style.logo}>ABHI</span></Link>
 
       <div className={style.paramLink}>
         <Link href="#"><span className={style.span}>Home</span></Link>
