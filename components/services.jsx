@@ -8,11 +8,16 @@ function services() {
       <h2>Services</h2>
 
       <div className={style.container}>
-        <article className={style.service1}>
+        <article className={style.service}>
           <div className={style.header}>
-            <h3 className={style.h3}>Web Development</h3>
+            <h3 className={style.h3}>All Services</h3>
           </div>
           <ul className={style.list}>
+             <li className={style.li}><Done className={style.icon}/> Pentesting Websites</li>
+            <li className={style.li}><Done className={style.icon}/> Red Team Assesment</li>
+            <li className={style.li}><Done className={style.icon}/> Employee Awareness & Training</li>
+            <li className={style.li}><Done className={style.icon}/> Employe Awareness Training</li>
+            <li className={style.li}><Done className={style.icon}/> Phishing Simulations</li>
             <li className={style.li}><Done className={style.icon}/> Small Scale Automation in python</li>
             <li className={style.li}><Done className={style.icon}/> Server Configuration</li>
             <li className={style.li}><Done className={style.icon}/> Debugging</li>
