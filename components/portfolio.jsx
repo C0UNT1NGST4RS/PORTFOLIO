@@ -11,19 +11,19 @@ function portfolio() {
           <div className={style.itemImage}>
             <img src={'/assets/portfolio1.webp'}/>
           </div>
-          <h3 className={style.h3}>Whatsapp Clone</h3>
+          <h3 className={style.h3}>Face Recognition Attendance System</h3>
           <div className={style.btn}>
-          <a href="https://github.com/Mahammed-Siyabuddeen/whatsapp-frontend" className='btn btn-primary'>Github</a>
-          <a href="https://whatsapp-clone-shihab.netlify.app/"className='btn'  >Live Demo</a>
+          <a href="https://github.com/el3ktraz/FACE-RECOGNITION-ATTANDANCE-SYSTEM" className='btn btn-primary'>Github</a>
+          <a href=""className='btn'  >Live Demo</a>
           </div>
         </article>
         <article className={style.item}>
           <div className={style.itemImage}>
             <img src={'/assets/portfolio2.png'}/>
           </div>
-          <h3 className={style.h3}>Nextflix Clone</h3>
+          <h3 className={style.h3}>Sports Auction Software</h3>
           <div className={style.btn}>
-          <a href="https://github.com/Mahammed-Siyabuddeen/netflixm" className='btn btn-primary'>Github</a>
+          <a href="https://github.com/el3ktraz/CRICKET-BIDDING" className='btn btn-primary'>Github</a>
           <a href="https://netflixshihab.netlify.app/" className='btn' >Live Demo</a>
           </div>
         </article>
@@ -31,7 +31,7 @@ function portfolio() {
           <div className={style.itemImage}>
             <img src={'/assets/portfolio3.png'}/>
           </div>
-          <h3 className={style.h3}>Custom Portfolio</h3>
+          <h3 className={style.h3}>Obstacle Detecion and AVoiding robot(IOT)</h3>
           <div className={style.btn}>
           <a href="https://github.com/Mahammed-Siyabuddeen/avocado-nextjs" className='btn btn-primary'>Github</a>
           <a href="https://avocado-nextjs2.vercel.app/"className='btn'  >Live Demo</a>
@@ -41,10 +41,10 @@ function portfolio() {
           <div className={style.itemImage}>
             <img src={'/assets/portfolio4.png'}/>
           </div>
-          <h3 className={style.h3}>Paicare portfolio</h3>
+          <h3 className={style.h3}>IT-Fest Website</h3>
           <div className={style.btn}>
-          <a href="https://github.com/mahammed-siyabuddeen" className='btn btn-primary'>Github</a>
-          <a href="https://paircare.in" className='btn' >Live Demo</a>
+          <a href="https://github.com/el3ktraz/IT-FEST-website" className='btn btn-primary'>Github</a>
+          <a href="https://shc-it-fest.vercel.app/" className='btn' >Live Demo</a>
           </div>
         </article>
       </div>
