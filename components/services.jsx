@@ -10,20 +10,41 @@ function services() {
       <div className={style.container}>
         <article className={style.service}>
           <div className={style.header}>
-            <h3 className={style.h3}>Web Development</h3>
+            <h3 className={style.h3}>Dev</h3>
           </div>
           <ul className={style.list}>
-            <li className={style.li}><Done className={style.icon}/>  Full-stack development</li>
-            <li className={style.li}><Done className={style.icon}/>Static Website Service</li>
-            <li className={style.li}><Done className={style.icon}/> Dynamic Website</li>
-            <li className={style.li}><Done className={style.icon}/> eCommerce Development</li>
+            <li className={style.li}><Done className={style.icon}/> Small Scale Automation in python</li>
+            <li className={style.li}><Done className={style.icon}/> Server Configuration</li>
+            <li className={style.li}><Done className={style.icon}/> Debugging</li>
+            <li className={style.li}><Done className={style.icon}/> Testing[Black box]</li>
             <li className={style.li}><Done className={style.icon}/> Website Maintenance</li>
-            <li className={style.li}><Done className={style.icon}/> Realtime Chat</li>
-            <li className={style.li}><Done className={style.icon}/> Social media applications</li>
-            <li className={style.li}><Done className={style.icon}/> Custom Website Design</li>
+            <li className={style.li}><Done className={style.icon}/> Static Website Service</li>
+            <li className={style.li}><Done className={style.icon}/> Network Configuration</li>
+            <li className={style.li}><Done className={style.icon}/> Database Management</li>
             <li className={style.li}><Done className={style.icon}/> Web Hosting</li>
             <li className={style.li}><Done className={style.icon}/> Payment Gatway Integration</li>
-            <li className={style.li}><Done className={style.icon}/>  Customized web app development</li>
+            <li className={style.li}><Done className={style.icon}/> API Integrations</li>
+
+          </ul>
+        </article>
+      </div>
+      <div className={style.container}>
+        <article className={style.service}>
+          <div className={style.header}>
+            <h3 className={style.h3}>Dev</h3>
+          </div>
+          <ul className={style.list}>
+            <li className={style.li}><Done className={style.icon}/> Small Scale Automation in python</li>
+            <li className={style.li}><Done className={style.icon}/> Server Configuration</li>
+            <li className={style.li}><Done className={style.icon}/> Debugging</li>
+            <li className={style.li}><Done className={style.icon}/> Testing[Black box]</li>
+            <li className={style.li}><Done className={style.icon}/> Website Maintenance</li>
+            <li className={style.li}><Done className={style.icon}/> Static Website Service</li>
+            <li className={style.li}><Done className={style.icon}/> Network Configuration</li>
+            <li className={style.li}><Done className={style.icon}/> Database Management</li>
+            <li className={style.li}><Done className={style.icon}/> Web Hosting</li>
+            <li className={style.li}><Done className={style.icon}/> Payment Gatway Integration</li>
+            <li className={style.li}><Done className={style.icon}/> API Integrations</li>
 
           </ul>
         </article>
