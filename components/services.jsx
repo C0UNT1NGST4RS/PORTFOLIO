@@ -13,7 +13,7 @@ function services() {
             <h3 className={style.h3}>All Services</h3>
           </div>
           <ul className={style.list}>
-             <li className={style.li}><Done className={style.icon}/> Pentesting Websites</li>
+           
             <li className={style.li}><Done className={style.icon}/> Red Team Assesment</li>
             <li className={style.li}><Done className={style.icon}/> Employee Awareness & Training</li>
             <li className={style.li}><Done className={style.icon}/> Employe Awareness Training</li>
