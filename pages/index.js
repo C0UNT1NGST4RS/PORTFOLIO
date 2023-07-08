@@ -14,7 +14,7 @@ export default function Home() {
       <Head>
         <title>Abhishek Mathew | dev</title>
         <meta name="description" content="hello i am Abhishek Mathew  from mangalore,karnataka" />
-      /*  <link rel="icon" href="/favicon.ico" />    */
+      <link rel="icon" href="/favicon.ico" />  
       </Head>
       <div>
       <Header/>
