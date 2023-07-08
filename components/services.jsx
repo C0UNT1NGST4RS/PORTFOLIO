@@ -28,10 +28,11 @@ function services() {
           </ul>
         </article>
       </div>
+      
       <div className={style.container}>
         <article className={style.service}>
           <div className={style.header}>
-            <h3 className={style.h3}>Dev</h3>
+            <h3 className={style.h3}>Other Services</h3>
           </div>
           <ul className={style.list}>
             <li className={style.li}><Done className={style.icon}/> Small Scale Automation in python</li>
