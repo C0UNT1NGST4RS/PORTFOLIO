@@ -24,7 +24,7 @@ function about() {
               <small>8+ completed</small>
             </div>
           </div>
-          <p className={style.para}>Hello, I am Siyabuddeen full stack developer, having 2+ years of experience. I am from Mangalore, Karnataka. My educational background in computer science </p>
+          <p className={style.para}>Hello, I am Abhishek Mathew, a  software developer. I hail from Mangalore, Karnataka, and possess a strong educational background in computer science. </p>
           <button className='btn btn-primary'>Let &apos;s talk</button>
         </div>
       </div>
