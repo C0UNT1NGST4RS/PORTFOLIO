@@ -21,7 +21,7 @@ function header() {
         <a href={'#contact'}className={style.scrollDown}>Scroll Down</a>
 
         <div className={style.socials}>
-          <Link href={'https://in.linkedin.com/in/'}><LinkedInIcon/></Link>
+          <Link href={'https://www.linkedin.com/in/abhishek-mathew-135884207/'}><LinkedInIcon/></Link>
           <Link href={'https://github.com/el3ktraz/'}><GitHubIcon/></Link>
           <Link href={'https://www.instagram.com/4bhiX_X/'}><InstagramIcon/></Link>
         </div>
